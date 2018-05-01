@@ -1,0 +1,29 @@
+		sf::Font scre;
+								scre.loadFromFile("Pacifico.ttf");
+
+								std::stringstream sss;
+								sss << "Your Score: " << cnt;
+
+								sf::Text pp;
+								pp.setCharacterSize(70);
+								pp.setColor(sf::Color::White);
+								pp.setFont(scre);
+								pp.setString(sss.str());
+								pp.setPosition(900 / 2 - pp.getGlobalBounds().width / 2, 575);
+
+								/////////////////////////////////////////////
+
+								sf::Font fontt;
+								fontt.loadFromFile("Lobster_1.3.otf");
+								sf::Text textt;
+								textt.setFont(fontt);
+								textt.setString("Press ENTER to continue");
+								textt.setColor(sf::Color::Red);
+								textt.setCharacterSize(60);
+								textt.setPosition(900 / 2 - textt.getGlobalBounds().width / 2, 700);
+								window.clear();
+								window.draw(game_over);
+								window.draw(pp);
+								window.draw(textt);
+								window.display();
+						

@@ -1,0 +1,52 @@
+﻿Build started 02-Apr-17 11:38:51 AM.
+     1>Project "C:\Users\Hp\Desktop\gamefinal\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\Users\Hp\Desktop\gamefinal\ConsoleApplication1\ConsoleApplication1\/include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+     1>c:\users\hp\desktop\gamefinal\consoleapplication1\consoleapplication1\main.cpp(34): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\hp\desktop\gamefinal\consoleapplication1\consoleapplication1\main.cpp(113): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\hp\desktop\gamefinal\consoleapplication1\consoleapplication1\main.cpp(267): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\hp\desktop\gamefinal\consoleapplication1\consoleapplication1\main.cpp(397): warning C4551: function call missing argument list
+     1>c:\users\hp\desktop\gamefinal\consoleapplication1\consoleapplication1\main.cpp(1239): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hp\desktop\gamefinal\consoleapplication1\consoleapplication1\main.cpp(1288): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hp\desktop\gamefinal\consoleapplication1\consoleapplication1\main.cpp(1343): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hp\desktop\gamefinal\consoleapplication1\consoleapplication1\main.cpp(1344): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hp\desktop\gamefinal\consoleapplication1\consoleapplication1\main.cpp(1352): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hp\desktop\gamefinal\consoleapplication1\consoleapplication1\main.cpp(1354): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hp\desktop\gamefinal\consoleapplication1\consoleapplication1\main.cpp(1356): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hp\desktop\gamefinal\consoleapplication1\consoleapplication1\main.cpp(1572): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hp\desktop\gamefinal\consoleapplication1\consoleapplication1\main.cpp(1573): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hp\desktop\gamefinal\consoleapplication1\consoleapplication1\main.cpp(1574): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hp\desktop\gamefinal\consoleapplication1\consoleapplication1\main.cpp(1575): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hp\desktop\gamefinal\consoleapplication1\consoleapplication1\main.cpp(1576): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hp\desktop\gamefinal\consoleapplication1\consoleapplication1\main.cpp(1577): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hp\desktop\gamefinal\consoleapplication1\consoleapplication1\main.cpp(1578): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hp\desktop\gamefinal\consoleapplication1\consoleapplication1\main.cpp(1579): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hp\desktop\gamefinal\consoleapplication1\consoleapplication1\main.cpp(1580): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hp\desktop\gamefinal\consoleapplication1\consoleapplication1\main.cpp(1607): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hp\desktop\gamefinal\consoleapplication1\consoleapplication1\main.cpp(1608): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hp\desktop\gamefinal\consoleapplication1\consoleapplication1\main.cpp(1609): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hp\desktop\gamefinal\consoleapplication1\consoleapplication1\main.cpp(1610): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hp\desktop\gamefinal\consoleapplication1\consoleapplication1\main.cpp(1611): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hp\desktop\gamefinal\consoleapplication1\consoleapplication1\main.cpp(1612): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hp\desktop\gamefinal\consoleapplication1\consoleapplication1\main.cpp(1613): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hp\desktop\gamefinal\consoleapplication1\consoleapplication1\main.cpp(1614): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hp\desktop\gamefinal\consoleapplication1\consoleapplication1\main.cpp(1615): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hp\desktop\gamefinal\consoleapplication1\consoleapplication1\main.cpp(1678): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\hp\desktop\gamefinal\consoleapplication1\consoleapplication1\main.cpp(1679): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\hp\desktop\gamefinal\consoleapplication1\consoleapplication1\main.cpp(1839): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\hp\desktop\gamefinal\consoleapplication1\consoleapplication1\main.cpp(1910): warning C4551: function call missing argument list
+     1>c:\users\hp\desktop\gamefinal\consoleapplication1\consoleapplication1\main.cpp(140): warning C4930: 'HighScore HighScore(void)': prototyped function not called (was a variable definition intended?)
+     1>c:\users\hp\desktop\gamefinal\consoleapplication1\consoleapplication1\main.cpp(525): warning C4101: 'r1st' : unreferenced local variable
+     1>c:\users\hp\desktop\gamefinal\consoleapplication1\consoleapplication1\main.cpp(1812): warning C4101: 'aa' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Hp\Desktop\gamefinal\ConsoleApplication1\Debug\ConsoleApplication1.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\Users\Hp\Desktop\gamefinal\ConsoleApplication1\ConsoleApplication1\/lib "sfml-network-d.lib" "sfml-audio-d.lib" "sfml-graphics-d.lib" "sfml-window-d.lib" "sfml-system-d.lib" kernel32.lib user32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Hp\Desktop\gamefinal\ConsoleApplication1\Debug\ConsoleApplication1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Hp\Desktop\gamefinal\ConsoleApplication1\Debug\ConsoleApplication1.lib" /MACHINE:X86 Debug\HighScore.obj
+         Debug\Main.obj
+         ConsoleApplication1.vcxproj -> C:\Users\Hp\Desktop\gamefinal\ConsoleApplication1\Debug\ConsoleApplication1.exe
+     1>Done Building Project "C:\Users\Hp\Desktop\gamefinal\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:08.72
